@@ -1,0 +1,16 @@
+;Draw a line and circle
+line
+0,0
+10,0
+
+circle
+10,0
+3.5
+
+zoom
+w
+-15,-15
+15,15
+
+script"C:\Users\dell\Downloads\exam_view.scr"
+
